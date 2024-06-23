@@ -1,0 +1,465 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 1400px;
+}
+.section-one h2{
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 82px;
+}
+.section-one-text{
+    margin-left: 82px;
+    margin-right: 82px;
+}
+.first-line{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+.second-line{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.first-shag{
+    padding: 26px 42px 26px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    display: flex;
+    cursor: pointer;
+}
+.first-shag h4{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    color: rgba(121, 166, 195, 1);
+    margin-bottom:10px;
+}
+.second-shag{
+    padding: 26px 42px 26px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    display: flex;
+    cursor: pointer;
+}
+.second-shag h4{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    color: rgba(121, 166, 195, 1);
+    margin-bottom:10px;
+}
+.third-shag{
+    padding: 26px 42px 26px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    display: flex;
+    cursor: pointer;
+}
+.third-shag h4{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    color: rgba(121, 166, 195, 1);
+    margin-bottom:10px;
+}
+.fourth-shag{
+    padding: 26px 42px 26px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    display: flex;
+    cursor: pointer;
+}
+.fourth-shag h4{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    color: rgba(121, 166, 195, 1);
+    margin-bottom:10px;
+}
+.first-shag h3{
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 15px;
+}
+.second-shag h3{
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 15px;
+}
+.third-shag h3{
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 15px;
+}
+.fourth-shag h3{
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 15px;
+}
+.first-shag p{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+    width: 384px;
+}
+.second-shag p{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+    width: 384px;
+}
+.third-shag p{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+    width: 384px;
+}
+.fourth-shag p{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+    width: 384px;
+}
+.section-two{
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+.section-two h2{
+    margin-bottom: 34px;
+    margin-left: 82px;
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+    text-align: left;
+    color: 
+    rgba(0, 0, 0, 1);
+}
+.section-two-hero{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 120px;
+    padding: 59px 62px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+}
+.hero-text{
+    display: flex;
+    gap: 15px;
+}
+.hero-button{
+    margin-top: 41px;
+}
+
+.section-two-hero h3{
+    font-family: "Ubuntu";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    color: 
+    rgba(0, 0, 0, 1);
+    margin-top: 22px;
+    margin-bottom: 1px;
+}
+.section-two-hero h4{
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+}
+.hero-button{
+    width: 405px;
+    height: 48px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 400px;
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: center;
+    color: rgba(0, 0, 222, 1);
+}
+.section-three{
+    margin-left: 86px;
+    margin-right: 85px;
+}
+.section-three h2{
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 29px;
+}
+.section-three-nav ul{
+    display: flex;
+    gap: 32px;
+}
+.section-three-nav  li{
+    list-style: none;
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+    color: 
+    rgba(110, 155, 184, 1);
+    cursor: pointer;
+    padding: 11px;
+    border-bottom: 2px solid rgba(240, 244, 248, 1);
+}
+.section-three-nav li:hover{
+    border-bottom-color: 
+    rgba(0, 0, 222, 1);
+    color: black;
+}
+.section-three hr{
+    color: rgba(240, 244, 248, 1);
+    margin-bottom: 37px;
+}
+.section-three h3{
+    font-family: "Ubuntu";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 9px;
+}
+.blog{
+    height: 44px;
+    display: flex;
+    padding: 1px 13px;
+    align-items: center;
+    gap: 1px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+.blog p{
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: 
+    rgba(0, 0, 0, 1);
+}
+.section-four{
+    display: flex;
+    margin: 104px 20px 94px 20px;
+    border: none;
+    background-color: rgba(240, 244, 248, 1);
+    border-radius: 64px 6px 64px 6px;
+    padding: 82px 159px 0px 62px;
+}
+.section-four h3{
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.section-four h4{
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 37.4px;
+    text-align: left;
+    color: rgba(0, 0, 222, 1);
+    margin-bottom: 17px;
+}
+.section-four p{
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(110, 155, 184, 1);
+    margin-bottom: 33px;
+}
+.section-four-buttons{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.button-one{
+    width: 250px;
+    border: 1px solid rgba(0, 0, 222, 1);
+    background-color: rgba(0, 0, 222, 1);
+    border-radius: 28px 0px;
+    padding: 23px 0px;
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    transition: 0.7s all ease;
+}
+.button-one:hover{
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 222, 1);
+}
+.button-two{
+    width: 153px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 28px 0px;
+    padding: 23px 0px;
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    text-align: center;
+    color: rgba(0, 0, 222, 1);
+    cursor: pointer;
+    transition: 0.7s all ease;
+}
+.button-two:hover{
+    border-color: rgba(0, 0, 222, 1);
+    background-color: rgba(0, 0, 222, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.section-four img{
+    margin-left: 159px;
+}
+.section-five{
+    margin-left: 82px;
+    margin-right: 82px;
+}
+.section-five h2{
+    font-family: "Ubuntu";
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 31px;
+}
+.section-five-hero{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 99px;
+}
+.section-five-hero .first-hero{
+    position: relative;
+    width: 405px;
+    background-color: 
+    rgba(240, 244, 248, 1);
+    border: none;
+    border-radius: 10px;
+    padding-top: 26px;
+    padding-left: 30px;
+    padding-bottom: 36px;
+}
+.first-hero span{
+    font-family: "Ubuntu";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    color: rgba(121, 166, 195, 1);
+    margin-bottom: 10px;
+}
+.first-hero h3{
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 28px;
+}
+.line{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 33px;
+}
+.line p{
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+    color: 
+    rgba(0, 0, 222, 1);
+}
+.first-hero #main-one{
+    position: absolute;
+    top: 17px;
+    left: 345px;
+    cursor: pointer;
+}
